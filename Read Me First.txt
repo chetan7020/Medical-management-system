@@ -5,7 +5,7 @@ Steps to run project on your system -
 Step 1 - 
     Download zip of project from git and extract it.
 Step 2 -
-    import sql file in xammp > phpmyadmin > import
+    import medical_management.sql file in xammp > phpmyadmin > import
 Step 3 - 
     open extracted project in netbeans or eclipse 
 Step 4 - 
