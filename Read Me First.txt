@@ -9,7 +9,7 @@ Step 2 -
 Step 3 - 
     open extracted project in netbeans or eclipse 
 Step 4 - 
-    add given jar file for connection if you don't have
+    add given jar file to library for connection if you don't have
 Step 5 - 
     make new connection to imported database 
 Step 6 - 
