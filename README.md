@@ -1,5 +1,0 @@
-# Medical-management-system
-“Medical Management System” is a java project that maintains the pharmacy records. The whole system is made in NetBeans IDE and VS code. The system has a MySQL database as back-end support. The system supports all the features that are required here in this system. Developing a source code for “Medical Management System” in java swing will not going to be easy for us as a beginner. Because as we know it is very deep and powerful language but we will try our best.
-
-username - admin
-password - Chet@n7020
